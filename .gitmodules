@@ -1,0 +1,12 @@
+[submodule "AndmExampleShopwarePlugin0"]
+	path = AndmExampleShopwarePlugin0
+	url = https://github.com/andersmateusz/AndmExampleShopwarePlugin0.git
+[submodule "AndmExampleShopwarePlugin1"]
+	path = AndmExampleShopwarePlugin1
+	url = https://github.com/andersmateusz/AndmExampleShopwarePlugin1.git
+[submodule "AndmExampleShopwarePlugin2"]
+	path = AndmExampleShopwarePlugin2
+	url = https://github.com/andersmateusz/AndmExampleShopwarePlugin2.git
+[submodule "AndmExampleShopwarePlugin3"]
+	path = AndmExampleShopwarePlugin3
+	url = https://github.com/andersmateusz/AndmExampleShopwarePlugin3.git
