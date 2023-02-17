@@ -10,3 +10,5 @@
 [submodule "AndmExampleShopwarePlugin3"]
 	path = AndmExampleShopwarePlugin3
 	url = https://github.com/andersmateusz/AndmExampleShopwarePlugin3.git
+[submodule "https://github.com/andersmateusz/AndmExampleShopwarePlugin0.git"]
+	branch = master
