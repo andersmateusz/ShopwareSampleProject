@@ -12,3 +12,11 @@
 	url = https://github.com/andersmateusz/AndmExampleShopwarePlugin3.git
 [submodule "https://github.com/andersmateusz/AndmExampleShopwarePlugin0.git"]
 	branch = master
+[submodule "AndExampleShopwarePlugin0"]
+	branch = master
+[submodule "AndExampleShopwarePlugin1"]
+	branch = master
+[submodule "AndExampleShopwarePlugin2"]
+	branch = master
+[submodule "AndExampleShopwarePlugin3"]
+	branch = master
