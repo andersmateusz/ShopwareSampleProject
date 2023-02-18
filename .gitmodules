@@ -20,3 +20,7 @@
 	branch = master
 [submodule "AndExampleShopwarePlugin3"]
 	branch = master
+[submodule "ShopwareSampleProjectDevOps"]
+	path = ShopwareSampleProjectDevOps
+	url = https://github.com/andersmateusz/ShopwareSampleProjectDevOps.git
+	branch = master
